@@ -1,0 +1,56 @@
+{
+    "inflation_analysis": [
+        "The inflation decreased from year 2020 to 2021 by 4.17% in the low segment.",
+        "The inflation increased from year 2020 to 2021 by 5.76% in the mid segment.",
+        "The inflation decreased from year 2020 to 2021 by 25.9% in the high segment."
+    ],
+    "inflation_summary": {
+        "2021": {
+            "low": -4.17,
+            "mid": 5.76,
+            "high": -25.9
+        }
+    },
+    "yearly_segment_summary": {
+        "2020": {
+            "low": {
+                "average": 169.05,
+                "max": 300.0,
+                "min": 107.46,
+                "stdev": 67.48
+            },
+            "mid": {
+                "average": 435.91,
+                "max": 545.0,
+                "min": 302.0,
+                "stdev": 103.21
+            },
+            "high": {
+                "average": 1593.52,
+                "max": 4800.0,
+                "min": 749.0,
+                "stdev": 1091.93
+            }
+        },
+        "2021": {
+            "low": {
+                "average": 162.0,
+                "max": 224.0,
+                "min": 100.0,
+                "stdev": 87.68
+            },
+            "mid": {
+                "average": 461.0,
+                "max": 629.0,
+                "min": 345.0,
+                "stdev": 148.97
+            },
+            "high": {
+                "average": 1180.8,
+                "max": 1569.99,
+                "min": 922.0,
+                "stdev": 243.58
+            }
+        }
+    }
+}

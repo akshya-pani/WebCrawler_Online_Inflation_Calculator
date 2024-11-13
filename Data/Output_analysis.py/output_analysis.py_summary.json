@@ -1,0 +1,138 @@
+{
+    "inflation_analysis": [
+        "The inflation decreased from year 2020 to 2021 by 9.05% in the low segment.",
+        "The inflation increased from year 2020 to 2021 by 15.71% in the m segment.",
+        "The inflation decreased from year 2020 to 2021 by 17.98% in the higidh segment.",
+        "The inflation decreased from year 2021 to 2022 by 19.39% in the low segment.",
+        "The inflation increased from year 2021 to 2022 by 9.79% in the mid segment.",
+        "The inflation decreased from year 2021 to 2022 by 6.53% in the high segment.",
+        "The inflation decreased from year 2022 to 2023 by 2.4% in the low segment.",
+        "The inflation decreased from year 2022 to 2023 by 35.42% in the mid segment.",
+        "The inflation increased from year 2023 to 2024 by 95.33% in the low segment."
+    ],
+    "inflation_summary": {
+        "2021": {
+            "low": -9.05,
+            "mid": 15.71,
+            "high": -17.98
+        },
+        "2022": {
+            "low": -19.39,
+            "mid": 9.79,
+            "high": -6.53
+        },
+        "2023": {
+            "low": -2.4,
+            "mid": -35.42,
+            "high": null
+        },
+        "2024": {
+            "low": 95.33,
+            "mid": null,
+            "high": null
+        }
+    },
+    "yearly_segment_summary": {
+        "2020": {
+            "low": {
+                "average": 189.58,
+                "max": 300.0,
+                "min": 107.46,
+                "stdev": 80.31
+            },
+            "mid": {
+                "average": 435.91,
+                "max": 545.0,
+                "min": 302.0,
+                "stdev": 103.21
+            },
+            "high": {
+                "average": 1593.52,
+                "max": 4800.0,
+                "min": 749.0,
+                "stdev": 1091.93
+            }
+        },
+        "2021": {
+            "low": {
+                "average": 172.43,
+                "max": 229.0,
+                "min": 100.0,
+                "stdev": 64.89
+            },
+            "mid": {
+                "average": 504.4,
+                "max": 639.0,
+                "min": 345.0,
+                "stdev": 130.55
+            },
+            "high": {
+                "average": 1306.93,
+                "max": 2189.99,
+                "min": 829.0,
+                "stdev": 423.89
+            }
+        },
+        "2022": {
+            "low": {
+                "average": 139.0,
+                "max": 139.0,
+                "min": 139.0,
+                "stdev": 0.0
+            },
+            "mid": {
+                "average": 553.8,
+                "max": 679.0,
+                "min": 485.0,
+                "stdev": 73.26
+            },
+            "high": {
+                "average": 1221.57,
+                "max": 1700.0,
+                "min": 719.0,
+                "stdev": 406.17
+            }
+        },
+        "2023": {
+            "low": {
+                "average": 135.67,
+                "max": 178.0,
+                "min": 100.0,
+                "stdev": 39.43
+            },
+            "mid": {
+                "average": 357.67,
+                "max": 469.0,
+                "min": 302.0,
+                "stdev": 96.42
+            },
+            "high": {
+                "average": null, 
+                "max": null,
+                "min": null,
+                "stdev": null
+            }
+        },
+        "2024": {
+            "low": {
+                "average": 265.0,
+                "max": 265.0,
+                "min": 265.0,
+                "stdev": 0.0
+            },
+            "mid": {
+                "average": null,
+                "max": null,
+                "min": null,
+                "stdev": null
+            },
+            "high": {
+                "average": null,
+                "max": null,
+                "min": null,
+                "stdev": null
+            }
+        }
+    }
+}
+
